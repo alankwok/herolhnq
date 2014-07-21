@@ -9,7 +9,8 @@
 深信每一種文字和語言都是在反映不同的思維方式，
 極喜歡透過吃食和學習語言來感受各種文化。
 願望能做到真摰的看待生活中每一個時刻。</description>
-	<author href="http://eaaatup.com" email="alankwok@yahoo.com">Eaatup.com</author>	
+	<author href="http://eaaatup.com" email="alankwok@yahoo.com">Eaatup.com</author>
+	<preference name="permissions" value="none" />	
 	<icon src="icons/apple-touch-icon-57-precomposed.png" gap:platform="ios" width="57" height="57" />
 	<icon src="icons/apple-touch-icon-72-precomposed.png" gap:platform="ios" width="72" height="72" />
 	<icon src="icons/apple-touch-icon-114-precomposed.png" gap:platform="ios" width="114" height="114" />		
